@@ -895,4 +895,4 @@ BG2-W09:荣耀畅玩平板 2 7 英寸 Wi-Fi 版:荣耀
 HDN-W09:荣耀 Waterplay 10.1 英寸 Wi-Fi 版:荣耀
 HDN-L09:荣耀 Waterplay 10.1 英寸 LTE 版:荣耀
 HDL-W09:荣耀 Waterplay 8 英寸 Wi-Fi 版:荣耀
-HDL-AL09: 荣耀 Waterplay 8 英寸 全网通版
+HDL-AL09: 荣耀 Waterplay 8 英寸 全网通版:荣耀
