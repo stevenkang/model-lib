@@ -896,3 +896,237 @@ HDN-W09:荣耀 Waterplay 10.1 英寸 Wi-Fi 版:荣耀
 HDN-L09:荣耀 Waterplay 10.1 英寸 LTE 版:荣耀
 HDL-W09:荣耀 Waterplay 8 英寸 Wi-Fi 版:荣耀
 HDL-AL09: 荣耀 Waterplay 8 英寸 全网通版:荣耀
+# 华为手机
+MT1-T00:华为 Ascend Mate 移动版:华为
+MT1-U06:华为 Ascend Mate 联通版:华为
+MT2-U071:华为 Ascend Mate 2 联通 3G 版:华为
+MT2-C00:华为 Ascend Mate 2 电信 3G 版:华为
+MT2-L02:华为 Ascend Mate 2 移动 4G 版:华为
+MT2-L05:华为 Ascend Mate 2 联通 4G 版:华为
+MT7-TL00:华为 Ascend Mate 7 移动版:华为
+MT7-TL10:华为 Ascend Mate 7 双 4G 版:华为
+MT7-UL00:华为 Ascend Mate 7 联通版:华为
+MT7-CL00:华为 Ascend Mate 7 电信版:华为
+CRR-TL00:HUAWEI Mate S 移动臻享版:华为
+CRR-UL00:HUAWEI Mate S 双 4G 臻享版:华为
+CRR-UL20:HUAWEI Mate S 双 4G 臻逸版:华为
+CRR-CL00:HUAWEI Mate S 电信臻享版:华为
+CRR-CL20:HUAWEI Mate S 电信臻逸版:华为
+NXT-AL10:HUAWEI Mate 8 全网通版:华为
+NXT-TL00:HUAWEI Mate 8 移动版:华为
+NXT-DL00:HUAWEI Mate 8 双 4G 版:华为
+NXT-CL00:HUAWEI Mate 8 电信版:华为
+MHA-AL00:HUAWEI Mate 9 全网通版:华为
+MHA-TL00:HUAWEI Mate 9 移动 4G+ 版:华为
+LON-AL00:HUAWEI Mate 9 Pro:华为
+ALP-AL00:HUAWEI Mate 10 全网通版:华为
+ALP-TL00:HUAWEI Mate 10 移动 4G+ 版:华为
+BLA-AL00:HUAWEI Mate 10 Pro 全网通版:华为
+BLA-TL00:HUAWEI Mate 10 Pro 移动 4G+ 版:华为
+NEO-AL00:HUAWEI Mate RS 保时捷设计:华为
+HMA-AL00:HUAWEI Mate 20 全网通版:华为
+HMA-TL00:HUAWEI Mate 20 移动 4G+ 版:华为
+LYA-AL00:HUAWEI Mate 20 Pro 全网通版:华为
+LYA-AL10:HUAWEI Mate 20 Pro 全网通版 (8GB+256GB):华为
+LYA-TL00:HUAWEI Mate 20 Pro 移动 4G+ 版:华为
+EVR-AL00:HUAWEI Mate 20 X 全网通版:华为
+EVR-TL00:HUAWEI Mate 20 X 移动 4G+ 版:华为
+EVR-AN00:HUAWEI Mate 20 X 5G 版:华为
+LYA-AL00P:HUAWEI Mate 20 RS 保时捷设计:华为
+U9200:华为 Ascend P1:华为
+U9200E:华为 Ascend P1 XL:华为
+U9200S:华为 Ascend P1 S:华为
+P2-0000:华为 Ascend P2:华为
+P6-T00:华为 Ascend P6 移动渠道版:华为
+P6-T00V:华为 Ascend P6 移动定制版:华为
+P6-U06:华为 Ascend P6 联通版:华为
+P6-C00:华为 Ascend P6 电信版:华为
+P6 S-U06:华为 Ascend P6S 联通版:华为
+P7-L00:华为 Ascend P7 联通版:华为
+P7-L05:华为 Ascend P7 移动渠道版:华为
+P7-L07:华为 Ascend P7 移动定制版:华为
+P7-L09:华为 Ascend P7 电信版:华为
+GRA-TL00:HUAWEI P8 移动标配版:华为
+GRA-UL00:HUAWEI P8 双 4G 标配版:华为
+GRA-UL10:HUAWEI P8 双 4G 高配版:华为
+GRA-CL00:HUAWEI P8 电信标配版:华为
+GRA-CL10:HUAWEI P8 电信高配版:华为
+ALE-TL00:HUAWEI P8 青春版 移动版:华为
+ALE-UL00:HUAWEI P8 青春版 双 4G 版:华为
+ALE-CL00:HUAWEI P8 青春版 电信版:华为
+DAV-703L, DAV-713L:HUAWEI P8 Max:华为
+EVA-AL00:HUAWEI P9 全网通版 (32GB):华为
+EVA-AL10:HUAWEI P9 全网通版 (64GB):华为
+EVA-TL00:HUAWEI P9 移动版:华为
+EVA-DL00:HUAWEI P9 双 4G 版:华为
+EVA-CL00:HUAWEI P9 电信版:华为
+VIE-AL10:HUAWEI P9 Plus:华为
+VTR-AL00:HUAWEI P10 全网通版:华为
+VTR-TL00:HUAWEI P10 移动 4G+ 版:华为
+VKY-AL00:HUAWEI P10 Plus 全网通版:华为
+VKY-TL00:HUAWEI P10 Plus 移动 4G+ 版:华为
+EML-AL00:HUAWEI P20 全网通版:华为
+EML-TL00:HUAWEI P20 移动 4G+ 版:华为
+CLT-AL00:HUAWEI P20 Pro 全网通版:华为
+CLT-AL01:HUAWEI P20 Pro 全网通版 (6GB+64GB):华为
+CLT-AL00l:HUAWEI P20 Pro 真皮限量版 全网通版:华为
+CLT-TL00:HUAWEI P20 Pro 移动 4G+ 版:华为
+CLT-TL01:HUAWEI P20 Pro 移动 4G+ 版 (6GB+64GB):华为
+ELE-AL00:HUAWEI P30 全网通版:华为
+ELE-TL00:HUAWEI P30 移动 4G+ 版:华为
+VOG-AL00:HUAWEI P30 Pro 全网通版 (8GB+128GB):华为
+VOG-AL10:HUAWEI P30 Pro 全网通版:华为
+VOG-TL00:HUAWEI P30 Pro 移动 4G+ 版:华为
+CAZ-AL00:HUAWEI nova 全网通标配版 :华为
+CAZ-AL10:HUAWEI nova 全网通高配版:华为
+CAZ-TL10:HUAWEI nova 移动定制标配版:华为
+CAZ-TL20:HUAWEI nova 移动定制高配版:华为
+WAS-AL00:HUAWEI nova 青春版 全网通版:华为
+WAS-TL10:HUAWEI nova 青春版 移动 4G+ 版:华为
+PIC-AL00:HUAWEI nova 2 全网通版:华为
+PIC-TL00:HUAWEI nova 2 移动 4G+ 版:华为
+BAC-AL00:HUAWEI nova 2 Plus 全网通版:华为
+BAC-TL00:HUAWEI nova 2 Plus 移动 4G+ 版:华为
+HWI-AL00:HUAWEI nova 2s 全网通版:华为
+HWI-TL00:HUAWEI nova 2s 移动 4G+ 版:华为
+ANE-AL00:HUAWEI nova 3e 全网通版:华为
+ANE-TL00:HUAWEI nova 3e 移动 4G+ 版:华为
+PAR-AL00:HUAWEI nova 3 全网通版:华为
+PAR-TL00:HUAWEI nova 3 移动 4G+ 版:华为
+INE-AL00:HUAWEI nova 3i 全网通版:华为
+INE-TL00:HUAWEI nova 3i 移动 4G+ 版:华为
+VCE-AL00:HUAWEI nova 4 全网通版:华为
+VCE-TL00:HUAWEI nova 4 移动 4G+ 版:华为
+MAR-AL00:HUAWEI nova 4e 全网通版:华为
+MAR-TL00:HUAWEI nova 4e 移动 4G+ 版:华为
+SEA-AL00:HUAWEI nova 5 全网通版:华为
+SEA-TL00:HUAWEI nova 5 移动 4G+ 版:华为
+SEA-AL10:HUAWEI nova 5 Pro 全网通版:华为
+SEA-TL10:HUAWEI nova 5 Pro 移动 4G+ 版:华为
+GLK-AL00:HUAWEI nova 5i 全网通版:华为
+GLK-TL00:HUAWEI nova 5i 移动 4G+ 版:华为
+G6-T00:华为 Ascend G6 移动版:华为
+G6-U00:华为 Ascend G6 联通版:华为
+G6-C00:华为 Ascend G6 电信版:华为
+G7-TL00:华为 Ascend G7 移动版:华为
+G7-UL00:华为 Ascend G7 联通版:华为
+RIO-TL00:HUAWEI G7 Plus 移动版:华为
+RIO-UL00:HUAWEI G7 Plus 联通版:华为
+VNS-AL00:HUAWEI G9 青春版 全网通版:华为
+VNS-TL00:HUAWEI G9 青春版 移动版:华为
+VNS-DL00:HUAWEI G9 青春版 双 4G 版:华为
+VNS-CL00:HUAWEI G9 青春版 电信版:华为
+MLA-TL00:HUAWEI G9 Plus 移动 4G 版:华为
+MLA-TL10:HUAWEI G9 Plus 移动全网通版:华为
+MLA-UL00:HUAWEI G9 Plus 双 4G 版:华为
+A199:华为麦芒 A199:华为
+B199:华为麦芒 B199:华为
+C199:华为麦芒 C199:华为
+C199s:华为麦芒 3S:华为
+RIO-AL00:华为麦芒 4 全网通版:华为
+RIO-CL00:华为麦芒 4 电信 4G 版:华为
+MLA-AL00:HUAWEI 麦芒 5 全网通标配版:华为
+MLA-AL10:HUAWEI 麦芒 5 全网通高配版:华为
+RNE-AL00:HUAWEI 麦芒 6 全网通版:华为
+SNE-AL00:HUAWEI 麦芒 7 全网通版:华为
+POT-AL00:华为麦芒 8 全网通版:华为
+TIT-AL00:华为畅享 5 全网通版:华为
+TIT-TL00:华为畅享 5 移动 4G 版:华为
+TIT-CL00, HUAWEI TIT-CL10:华为畅享 5 电信 4G 版:华为
+TAG-AL00:华为畅享 5S 全网通版:华为
+TAG-TL00:华为畅享 5S 移动 4G 版:华为
+TAG-CL00:华为畅享 5S 电信 4G 版:华为
+NCE-AL00, NCE-AL10:华为畅享 6 全网通版:华为
+NCE-TL00, NCE-TL10:华为畅享 6 移动 4G+ 版:华为
+DIG-AL00:华为畅享 6S 全网通版:华为
+DIG-TL10:华为畅享 6S 移动 4G+ 版:华为
+SLA-AL00:华为畅享 7 全网通版:华为
+SLA-TL10:华为畅享 7 移动 4G+ 版:华为
+TRT-AL00, TRT-AL00A:华为畅享 7 Plus 全网通版:华为
+TRT-TL10, TRT-TL10A:华为畅享 7 Plus 移动 4G+ 版:华为
+FIG-AL00:华为畅享 7S 全网通标配版:华为
+FIG-AL10:华为畅享 7S 全网通高配版:华为
+FIG-TL00:华为畅享 7S 移动 4G+ 标配版:华为
+FIG-TL10:华为畅享 7S 移动 4G+ 高配版:华为
+LDN-AL00:华为畅享 8 全网通标配版:华为
+LDN-AL10:华为畅享 8 全网通 NFC 版:华为
+LDN-AL20:华为畅享 8 全网通高配版:华为
+LDN-TL00:华为畅享 8 移动 4G+ 标配版:华为
+LDN-TL10:华为畅享 8 移动 4G+ NFC 版:华为
+LDN-TL20:华为畅享 8 移动 4G+ 高配版:华为
+FLA-AL00, FLA-AL10, FLA-AL20:华为畅享 8 Plus 全网通版:华为
+FLA-TL00, FLA-TL10:华为畅享 8 Plus 移动 4G+ 版:华为
+ATU-AL10:华为畅享 8e 全网通版:华为
+ATU-TL10:华为畅享 8e 移动 4G+ 版:华为
+DRA-AL00:华为畅享 8e 青春 全网通版:华为
+DRA-TL00:华为畅享 8e 青春 移动 4G+ 版:华为
+DUB-AL00, DUB-AL00a, DUB-AL20:华为畅享 9 全网通版:华为
+DUB-TL00, DUB-TL00a:华为畅享 9 移动 4G+ 版:华为
+JKM-AL00:华为畅享 9 Plus 全网通版:华为
+JKM-AL00a, JKM-AL00b:华为畅享 9 Plus 全网通版 (麒麟 710F):华为
+JKM-TL00:华为畅享 9 Plus 移动 4G+ 版:华为
+ARS-AL00:华为畅享 Max 全网通版:华为
+ARS-TL00:华为畅享 Max 移动 4G+ 版:华为
+POT-AL00:华为畅享 9S 全网通版:华为
+POT-AL00a:华为畅享 9S 全网通版 (麒麟 710F):华为
+POT-TL00a:华为畅享 9S 移动 4G+ 版 (麒麟 710F):华为
+MRD-AL00:华为畅享 9e 全网通版:华为
+MRD-TL00:华为畅享 9e 移动 4G+ 版:华为
+S8-301W:华为 MediaPad M1 Wi-Fi 版:华为
+S8-301U:华为 MediaPad M1 3G 版:华为
+S8-303L:华为 MediaPad M1 LTE 版:华为
+M2-801W:华为揽阅 M2 8.0 Wi-Fi 版:华为
+M2-803L:华为揽阅 M2 8.0 LTE 版:华为
+M2-A01W:华为揽阅 M2 10.0 Wi-Fi 版:华为
+M2-A01L:华为揽阅 M2 10.0 LTE 版:华为
+PLE-703L:华为揽阅 M2 青春版 7.0 英寸 全网通版:华为
+PLE-703LT:华为揽阅 M2 青春版 7.0 英寸 双 4G 版:华为
+FDR-A01w:华为揽阅 M2 青春版 10.1 英寸 Wi-Fi 版:华为
+FDR-A03L:华为揽阅 M2 青春版 10.1 英寸 LTE 版:华为
+BTV-W09:华为平板 M3 Wi-Fi 版:华为
+BTV-DL09:华为平板 M3 LTE 版:华为
+CPN-W09:华为平板 M3 青春版 8.0 英寸 Wi-Fi 版:华为
+CPN-AL00:华为平板 M3 青春版 8.0 英寸 全网通版:华为
+BAH-W09:华为平板 M3 青春版 10.1 英寸 Wi-Fi 版:华为
+BAH-AL00:华为平板 M3 青春版 10.1 英寸 全网通版:华为
+BZK-W00:华为平板 T3 行业专享版 8 英寸 Wi-Fi 版:华为
+BZK-L00:华为平板 T3 行业专享版 8 英寸 LTE 版:华为
+BZA-W00:华为平板 T3 行业专享版 9.6 英寸 Wi-Fi 版:华为
+BZA-L00:华为平板 T3 行业专享版 9.6 英寸 LTE 版:华为
+SHT-W09:华为平板 M5 8.4 英寸 Wi-Fi 版:华为
+SHT-AL09:华为平板 M5 8.4 英寸 全网通版:华为
+CMR-W09:华为平板 M5 10.8 英寸 Wi-Fi 版:华为
+CMR-AL09:华为平板 M5 10.8 英寸 全网通版:华为
+CMR-W19:华为平板 M5 Pro Wi-Fi 版:华为
+CMR-AL19:华为平板 M5 Pro 全网通版:华为
+BAH2-W09:华为平板 M5 青春版 10.1 英寸 Wi-Fi 版:华为
+BAH2-AL10:华为平板 M5 青春版 10.1 英寸 全网通版:华为
+JDN2-W09:华为平板 M5 青春版 8 英寸 Wi-Fi 版:华为
+JDN2-AL00:华为平板 M5 青春版 8 英寸 全网通版:华为
+MON-W19:华为平板 C5 8 英寸 Wi-Fi 版:华为
+MON-AL19:华为平板 C5 8 英寸 全网通版:华为
+BZT-W09:华为平板 C5 10.1 英寸 Wi-Fi 版:华为
+BZT-AL00:华为平板 C5 10.1 英寸 全网通标配版:华为
+BZT-AL10:华为平板 C5 10.1 英寸 全网通高配版:华为
+AGS2-W09:华为畅享平板 10.1 英寸 Wi-Fi 版:华为
+AGS2-AL00:华为畅享平板 10.1 英寸 全网通版:华为
+VRD-W09:华为平板 M6 8.4 英寸 Wi-Fi 版:华为
+VRD-AL09:华为平板 M6 8.4 英寸 全网通版:华为
+SCM-W09:华为平板 M6 10.8 英寸 Wi-Fi 版:华为
+SCM-AL09:华为平板 M6 10.8 英寸 全网通版:华为
+U8860:Honor 联通版:华为
+C8860E:Honor 电信版:华为
+T8950:Honor+ 移动版:华为
+U8950D:Honor+ 联通版:华为
+C8950D:Honor+ 电信版:华为
+U9508:荣耀四核爱享版:华为
+HN3-U01:荣耀 3 outdoor:华为
+U9500:华为 Ascend D1:华为
+U9500E:华为 Ascend D1 XL:华为
+U9510:华为 Ascend D1 四核:华为
+U9510E:华为 Ascend D1 四核 XL:华为
+T9510E:华为 Ascend D1 四核 XL 移动版:华为
+D2-5000:华为 Ascend D2 移动 3G 版:华为
+D2-6070:华为 Ascend D2 移动 4G 版:华为
+D2-0082:华为 Ascend D2 联通版:华为
+D2-2010:华为 Ascend D2 电信版:华为
