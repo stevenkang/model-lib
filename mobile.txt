@@ -2219,3 +2219,397 @@ SKR-A0:Black Shark:Black
 AWM-A0:Black Shark Helo:Black
 SKW-A0:Black Shark 2:Black
 M1805E10A:POCO F1:POCO
+A2094:Apple Watch Series 5 (GPS + 蜂窝网络) (40 毫米表壳) (北美):Apple Watch
+A2156:Apple Watch Series 5 (GPS + 蜂窝网络) (40 毫米表壳) (国行):Apple Watch
+A2095:Apple Watch Series 5 (GPS + 蜂窝网络) (44 毫米表壳) (北美):Apple Watch
+A2157:Apple Watch Series 5 (GPS + 蜂窝网络) (44 毫米表壳) (国行):Apple Watch
+A2092:Apple Watch Series 5 (GPS) (40 毫米表壳):Apple Watch
+A2093:Apple Watch Series 5 (GPS) (44 毫米表壳):Apple Watch
+SM-A2070:Galaxy A20s:Galaxy
+SM-A5070:Galaxy A50s:Galaxy
+SM-A7070:Galaxy A70s:Galaxy
+SM-A9080:Galaxy A90 5G:Galaxy
+SM-M3070:Galaxy M30s:Galaxy
+SM-N9700:Galaxy Note10:Galaxy
+SM-N9760:Galaxy Note10+ 5G:Galaxy
+EVR-AN00:HUAWEI Mate 20 X 5G:HUAWEI
+TAS-AN00:HUAWEI Mate 30 5G:HUAWEI
+TAS-AN00:HUAWEI Mate 30 5G 全网通版:HUAWEI
+TAS-TN00:HUAWEI Mate 30 5G 移动定制版:HUAWEI
+LIO-AN00:HUAWEI Mate 30 Pro 5G:HUAWEI
+LIO-AN00:HUAWEI Mate 30 Pro 5G 全网通版:HUAWEI
+LIO-TN00:HUAWEI Mate 30 Pro 5G 移动定制版:HUAWEI
+LIO-AL00:HUAWEI Mate 30 Pro 全网通版:HUAWEI
+LIO-TL00:HUAWEI Mate 30 Pro 移动 4G+ 版:HUAWEI
+LIO-AN00P:HUAWEI Mate 30 RS 保时捷设计:HUAWEI
+TAS-AL00:HUAWEI Mate 30 全网通版:HUAWEI
+TAS-TL00:HUAWEI Mate 30 移动 4G+ 版:HUAWEI
+TAH-AN00:HUAWEI Mate X:HUAWEI
+WRT-W19:HUAWEI MateBook 13 i5:HUAWEI
+WRT-W19L:HUAWEI MateBook 13 i5 Linux 版:HUAWEI
+WRT-W29:HUAWEI MateBook 13 i7:HUAWEI
+WRT-W29L:HUAWEI MateBook 13 i7 Linux 版:HUAWEI
+HN-W19L:HUAWEI MateBook 13 锐龙 Linux 版:HUAWEI
+HN-W19R:HUAWEI MateBook 13 锐龙版:HUAWEI
+KLV-W19:HUAWEI MateBook 14 i5:HUAWEI
+KLV-W19DL:HUAWEI MateBook 14 i5 Linux 版:HUAWEI
+KLV-W29:HUAWEI MateBook 14 i7:HUAWEI
+MRC-W00:HUAWEI MateBook D (2018) i3 集显:HUAWEI
+MRC-W70:HUAWEI MateBook D (2018) i3 集显:HUAWEI
+MRC-W50:HUAWEI MateBook D (2018) i5 独显:HUAWEI
+MRC-W50R:HUAWEI MateBook D (2018) i5 独显 (8GB+512GB):HUAWEI
+MRC-W10BR:HUAWEI MateBook D (2018) i5 集显:HUAWEI
+MRC-W60:HUAWEI MateBook D (2018) i7 独显:HUAWEI
+MRC-W60R:HUAWEI MateBook D (2018) i7 独显 (8GB+512GB):HUAWEI
+PL-W19:HUAWEI MateBook D i5 独显:HUAWEI
+PL-W09:HUAWEI MateBook D i5 集显:HUAWEI
+PL-W29:HUAWEI MateBook D i7:HUAWEI
+PAK-AL09:HUAWEI MateBook E (2019):HUAWEI
+BL-W09:HUAWEI MateBook E i3:HUAWEI
+BL-W19:HUAWEI MateBook E i5:HUAWEI
+HZ-W09:HUAWEI MateBook m3:HUAWEI
+HZ-W19:HUAWEI MateBook m5:HUAWEI
+HZ-W29:HUAWEI MateBook m7:HUAWEI
+WT-W09:HUAWEI MateBook X i5:HUAWEI
+WT-W09:HUAWEI MateBook X i5:HUAWEI
+WT-W19:HUAWEI MateBook X i7:HUAWEI
+WT-W19:HUAWEI MateBook X i7:HUAWEI
+MACHR-W19:HUAWEI MateBook X Pro (2019) i5:HUAWEI
+MACHR-W19:HUAWEI MateBook X Pro (2019) i5:HUAWEI
+MACHR-W19L:HUAWEI MateBook X Pro (2019) i5 Linux 版:HUAWEI
+MACHR-W19L:HUAWEI MateBook X Pro (2019) i5 Linux 版:HUAWEI
+MACHR-W29:HUAWEI MateBook X Pro (2019) i7:HUAWEI
+MACHR-W29:HUAWEI MateBook X Pro (2019) i7:HUAWEI
+MACHR-W29BL:HUAWEI MateBook X Pro (2019) i7 Linux 版:HUAWEI
+MACHR-W29BL:HUAWEI MateBook X Pro (2019) i7 Linux 版:HUAWEI
+MACH-W19:HUAWEI MateBook X Pro i5:HUAWEI
+MACH-W19:HUAWEI MateBook X Pro i5:HUAWEI
+MACH-W29:HUAWEI MateBook X Pro i7:HUAWEI
+MACH-W29:HUAWEI MateBook X Pro i7:HUAWEI
+MRX-W09:HUAWEI MatePad Pro 10.8 英寸 Wi-Fi 版 (6GB+128GB/8GB+256GB):HUAWEI
+MRX-W19:HUAWEI MatePad Pro 10.8 英寸 Wi-Fi 版 (8GB+256GB):HUAWEI
+MRX-AL09:HUAWEI MatePad Pro 10.8 英寸 全网通版 (6GB+128GB/8GB+256GB):HUAWEI
+MRX-AL19:HUAWEI MatePad Pro 10.8 英寸 全网通版 (8GB+512GB):HUAWEI
+SEA-AL10:HUAWEI nova 5 Pro 全网通版:HUAWEI
+SEA-TL10:HUAWEI nova 5 Pro 移动 4G+ 版:HUAWEI
+SEA-AL00:HUAWEI nova 5 全网通版:HUAWEI
+SEA-TL00:HUAWEI nova 5 移动 4G+ 版:HUAWEI
+SPN-AL00:HUAWEI nova 5i Pro 全网通版:HUAWEI
+SPN-TL00:HUAWEI nova 5i Pro 移动 4G+ 版:HUAWEI
+GLK-AL00:HUAWEI nova 5i 全网通版:HUAWEI
+GLK-TL00:HUAWEI nova 5i 移动 4G+ 版:HUAWEI
+SPN-AL00:HUAWEI nova 5z 全网通版:HUAWEI
+SPN-TL00:HUAWEI nova 5z 移动 4G+ 版:HUAWEI
+POT-AL00:HUAWEI 麦芒 8 全网通版:HUAWEI
+POT-AL00:HUAWEI 麦芒 8 全网通版:HUAWEI
+POT-AL10:HUAWEI 麦芒 8 全网通版:HUAWEI
+POT-AL00a:HUAWEI 麦芒 8 全网通版 (麒麟 710F):HUAWEI
+A2198:iPad (第 7 代) (无线局域网 + 蜂窝网络):iPad
+A2200:iPad (第 7 代) (无线局域网 + 蜂窝网络):iPad
+A2199:iPad (第 7 代) (无线局域网 + 蜂窝网络) (国行):iPad
+A2197:iPad (第 7 代) (无线局域网):iPad
+A1934:iPad Pro (11 英寸) (无线局域网 + 蜂窝网络 1TB):iPad
+A2013:iPad Pro (11 英寸) (无线局域网 + 蜂窝网络 1TB):iPad
+A2013:iPad Pro (11 英寸) (无线局域网 + 蜂窝网络):iPad
+A1934:iPad Pro (11 英寸) (无线局域网 + 蜂窝网络) :iPad
+A1895:iPad Pro (12.9 英寸 第 3 代) (无线局域网 + 蜂窝网络 1TB):iPad
+A2014:iPad Pro (12.9 英寸 第 3 代) (无线局域网 + 蜂窝网络 1TB):iPad
+A1895:iPad Pro (12.9 英寸 第 3 代) (无线局域网 + 蜂窝网络):iPad
+A2014:iPad Pro (12.9 英寸 第 3 代) (无线局域网 + 蜂窝网络):iPad
+A2111:iPhone 11 (北美):iPhone
+A2223:iPhone 11 (国行):iPhone
+A2221:iPhone 11 (其他国家和地区):iPhone
+A2222:iPhone 11 (中国移动):iPhone
+A2160:iPhone 11 Pro (北美):iPhone
+A2217:iPhone 11 Pro (国行):iPhone
+A2215:iPhone 11 Pro (其他国家和地区):iPhone
+A2216:iPhone 11 Pro (中国移动):iPhone
+A2161:iPhone 11 Pro Max (北美):iPhone
+A2220:iPhone 11 Pro Max (国行):iPhone
+A2218:iPhone 11 Pro Max (其他国家和地区):iPhone
+A2219:iPhone 11 Pro Max (中国移动):iPhone
+A1984:iPhone XR (北美):iPhone
+A1920:iPhone XS (北美/港澳):iPhone
+A1921:iPhone XS Max (北美):iPhone
+V1824A:iQOO (8GB+128GB/8GB+256GB/12GB+128GB/12GB+256GB):iQOO
+V1936A:iQOO Neo 855 版 全网通版:iQOO
+V1936T:iQOO Neo 855 版 移动全网通版:iQOO
+V1914A:iQOO Neo 全网通版:iQOO
+V1914T:iQOO Neo 移动全网通版:iQOO
+V1916A:iQOO Pro 5G 全网通版:iQOO
+V1916T:iQOO Pro 5G 移动全网通版:iQOO
+V1922A:iQOO Pro 全网通版:iQOO
+V1922T:iQOO Pro 移动全网通版:iQOO
+L55M5-AI:Mi LED Smart TV 4 55:小米
+L40M5-5AIN:Mi LED Smart TV 4A 40:小米
+L43M5-AI:Mi LED Smart TV 4A 43:小米
+L32M5-AN:Mi LED Smart TV 4C Pro 32:小米
+M1910F4G:Mi Note 10 Global:小米
+L32M5-5ARU:Mi TV 4A 32:小米
+L32M5-5ASP:Mi TV 4A 32:小米
+L43M5-5ARU:Mi TV 4S 43:小米
+L43M5-5ASP:Mi TV 4S 43:小米
+L55M5-5ARU:Mi TV 4S 55:小米
+L55M5-5ASP:Mi TV 4S 55:小米
+L43M4-4AIN:Mi TV 4X 43:小米
+L50M5-5AIN:Mi TV 4X 50:小米
+L65M5-5SIN:Mi TV 4X 65:小米
+XT1970-5:motorola p50:摩托罗拉
+NX627J:nubia Z20:努比亚
+ONEPLUS A3000:OnePlus 3 全网通版:一加
+ONEPLUS A3010:OnePlus 3T 全网通版:一加
+ONEPLUS A5000:OnePlus 5 全网通版:一加
+ONEPLUS A5010:OnePlus 5T 全网通版:一加
+ONEPLUS A6000:OnePlus 6 全网通版:一加
+ONEPLUS A6010:OnePlus 6T 全网通版:一加
+GM1925:OnePlus 7 Pro 5G Sprint 版:一加
+GM1925:OnePlus 7 Pro 5G 国行版:一加
+GM1920:OnePlus 7 Pro 5G 国际版:一加
+GM1920:OnePlus 7 Pro 5G 欧洲版:一加
+GM1915:OnePlus 7 Pro T-Mobile 版:一加
+GM1917:OnePlus 7 Pro 国际/北美版:一加
+GM1910:OnePlus 7 Pro 全网通版:一加
+GM1911:OnePlus 7 Pro 印度版:一加
+GM1900:OnePlus 7 全网通版:一加
+HD1913:OnePlus 7T Pro 欧洲版:一加
+HD1910:OnePlus 7T Pro 全网通版:一加
+HD1911:OnePlus 7T Pro 印度版:一加
+HD1907:OnePlus 7T T-Mobile 版:一加
+HD1905:OnePlus 7T 北美版:一加
+HD1903:OnePlus 7T 欧洲版:一加
+HD1900:OnePlus 7T 全网通版:一加
+HD1901:OnePlus 7T 印度版:一加
+PCHM30:OPPO A11 全网通版:OPPO
+PCHM10:OPPO A11 全网通版:OPPO
+PCHT30:OPPO A11 移动版:OPPO
+PCHT10:OPPO A11 移动版:OPPO
+PCHM00:OPPO A11n 全网通版:OPPO
+PCHT00:OPPO A11n 移动版:OPPO
+PCHM30:OPPO A11x 全网通版:OPPO
+PCHT30:OPPO A11x 移动版:OPPO
+PCNM00:OPPO K5 全网通版:OPPO
+PCNT00:OPPO K5 移动版:OPPO
+PCKM00:OPPO Reno 2 全网通版:OPPO
+PCKT00:OPPO Reno 2 移动版:OPPO
+PCLM10:OPPO Reno Ace 全网通版:OPPO
+PCKM80:OPPO Reno2 Z 全网通版:OPPO
+PCKT80:OPPO Reno2 Z 移动版:OPPO
+PCKM00:OPPO Reno2 全网通版:OPPO
+PCKT00:OPPO Reno2 移动版:OPPO
+RMX1925:realme 5s:REALME
+RMX1993:realme X2:REALME
+RMX1931:realme X2 Pro:REALME
+M1810F6LT:Redmi 7 运营商全网通版:红米
+M1903C3EG:Redmi 7A 国际版:红米
+M1903C3EH:Redmi 7A 国际版:红米
+M1903C3EI:Redmi 7A 印度版:红米
+M1908C3IG:Redmi 8 国际版:红米
+M1908C3IH:Redmi 8 国际版:红米
+M1908C3IC:Redmi 8 联通电信定制版:红米
+M1908C3IE:Redmi 8 全网通版:红米
+M1908C3II:Redmi 8 印度版:红米
+M1908C3IC:Redmi 8 运营商全网通版:红米
+M1908C3KG:Redmi 8A 国际版:红米
+M1908C3KH:Redmi 8A 国际版:红米
+M1908C3KE:Redmi 8A 全网通版:红米
+M1908C3KI:Redmi 8A 印度版:红米
+M1903F11I:Redmi K20 Pro 印度版:红米
+M1903F11C:Redmi K20 Pro 运营商全网通版:红米
+M1903F11A:Redmi K20 Pro 尊享版 全网通版:红米
+M1903F10I:Redmi K20 印度版:红米
+M1903F10C:Redmi K20 运营商全网通版:红米
+M1906G7G:Redmi Note 8 Pro 国际版:红米
+M1906G7E:Redmi Note 8 Pro 全网通版:红米
+M1906G7T:Redmi Note 8 Pro 移动 4G+ 版:红米
+M1906G7I:Redmi Note 8 Pro 印度版:红米
+M1906G7T:Redmi Note 8 Pro 运营商全网通版:红米
+M1908C3JG:Redmi Note 8 国际版:红米
+M1908C3JH:Redmi Note 8 国际版:红米
+M1908C3JC:Redmi Note 8 联通电信定制版:红米
+M1908C3JE:Redmi Note 8 全网通版:红米
+M1908C3JI:Redmi Note 8 印度版:红米
+M1908C3JC:Redmi Note 8 运营商全网通版:红米
+M1908C3XG:Redmi Note 8T 国际版:红米
+L40M5-RA:Redmi 红米电视 40 英寸 R40A:红米
+L70M5-RA:Redmi 红米电视 70 英寸 R70A:红米
+V1924A:vivo NEX 3 5G 全网通版:VIVO
+V1924T:vivo NEX 3 5G 移动全网通版:VIVO
+V1923A:vivo NEX 3 全网通版:VIVO
+V1923T:vivo NEX 3 移动全网通版:VIVO
+V1932A:vivo S5 全网通版:VIVO
+V1932T:vivo S5 移动全网通版:VIVO
+V1941A:vivo U3 全网通版:VIVO
+V1941T:vivo U3 移动全网通版:VIVO
+V1928A:vivo U3x 全网通版:VIVO
+V1928T:vivo U3x 移动全网通版:VIVO
+V1930A:vivo Y3 标准版 全网通版:VIVO
+V1930T:vivo Y3 标准版 移动全网通版:VIVO
+V1934A:vivo Y5s 全网通版:VIVO
+V1934T:vivo Y5s 移动全网通版:VIVO
+V1913A:vivo Y7s 全网通版:VIVO
+V1913T:vivo Y7s 移动全网通版:VIVO
+V1730EA:vivo Y89 全网通版:VIVO
+V1945A:vivo Y9s 全网通版:VIVO
+V1945T:vivo Y9s 移动全网通版:VIVO
+V1921A:vivo Z5 全网通版:VIVO
+V1921T:vivo Z5 移动全网通版:VIVO
+V1941A:vivo Z5i 全网通版:VIVO
+V1941T:vivo Z5i 移动全网通版:VIVO
+V1919A:vivo Z5x 移动全网通版:VIVO
+Z2151:ZUK Edge:ZUK
+Z1221:ZUK Z1:ZUK
+Z2131:ZUK Z2:ZUK
+Z2122:ZUK Z2 Pro:ZUK
+Z2121:ZUK Z2 Pro :ZUK
+DLT-A0:黑鲨游戏手机 2 Pro:黑鲨
+2014715:红米 Note 4G 国际版:红米
+2014712:红米 Note 4G 印度版:红米
+NX629J:红魔 3:红魔
+X629J:红魔 3:红魔
+NX629J:红魔 3:红魔
+NX629J:红魔 3S:红魔
+STK-AL00:华为畅享 10 Plus 全网通版:华为
+STK-TL00:华为畅享 10 Plus 移动 4G+ 版:华为
+ART-AL00x:华为畅享 10 全网通版:华为
+ART-TL00x:华为畅享 10 移动 4G+ 版:华为
+AQM-AL00:华为畅享 10S 全网通版:华为
+AQM-TL00:华为畅享 10S 移动 4G+ 版:华为
+SLA-AL00:华为畅享 7 全网通版:华为
+SLA-TL10:华为畅享 7 移动 4G+ 版:华为
+FLA-AL00:华为畅享 8 Plus 全网通版:华为
+FLA-AL10:华为畅享 8 Plus 全网通版:华为
+FLA-AL20:华为畅享 8 Plus 全网通版:华为
+FLA-TL00:华为畅享 8 Plus 移动 4G+ 版:华为
+FLA-TL10:华为畅享 8 Plus 移动 4G+ 版:华为
+JKM-AL00a:华为畅享 9 Plus 全网通版 (4GB+64GB):华为
+JKM-AL00b:华为畅享 9 Plus 全网通版 (麒麟 710F):华为
+DUB-AL00:华为畅享 9 全网通标配/高配版:华为
+DUB-AL20:华为畅享 9 全网通标配/高配版:华为
+DUB-AL00:华为畅享 9 全网通标配/高配版:华为
+DUB-AL20:华为畅享 9 全网通标配/高配版:华为
+DUB-AL00a:华为畅享 9 全网通顶配版:华为
+DUB-AL00a:华为畅享 9 全网通顶配版:华为
+DUB-TL00:华为畅享 9 移动 4G+ 标配/高配版:华为
+DUB-TL00:华为畅享 9 移动 4G+ 标配/高配版:华为
+DUB-TL00a:华为畅享 9 移动 4G+ 顶配版:华为
+DUB-TL00a:华为畅享 9 移动 4G+ 顶配版:华为
+POT-AL00a:华为畅享 9S 全网通版:华为
+POT-TL00a:华为畅享 9S 移动 4G+ 版:华为
+POT-AL00:华为麦芒 8 全网通版:华为
+POT-AL00:华为麦芒 8 全网通版:华为
+POT-AL10:华为麦芒 8 全网通版:华为
+BZK-L00:华为平板 C3 (华为平板 T3 行业专享版) 8 英寸 LTE 版:华为
+BZK-W00:华为平板 C3 (华为平板 T3 行业专享版) 8 英寸 Wi-Fi 版:华为
+BZA-L00:华为平板 C3 (华为平板 T3 行业专享版) 9.6 英寸 LTE 版:华为
+BZA-W00:华为平板 C3 (华为平板 T3 行业专享版) 9.6 英寸 Wi-Fi 版:华为
+BZT-W09:华为平板 C5 10.1 英寸 Wi-Fi 版:华为
+BZT-AL00:华为平板 C5 10.1 英寸 全网通标配版:华为
+BZT-AL10:华为平板 C5 10.1 英寸 全网通高配版:华为
+MON-W19:华为平板 C5 8 英寸 Wi-Fi 版:华为
+MON-AL19:华为平板 C5 8 英寸 全网通版:华为
+JDN2-AL00:华为平板 M5 青春版 8 英寸 全网通版:华为
+JDN2-AL50:华为平板 M5 青春版 8 英寸 全网通版:华为
+SCM-W09:华为平板 M6 10.8 英寸 Wi-Fi 版:华为
+SCM-AL09:华为平板 M6 10.8 英寸 全网通版:华为
+VRD-W09:华为平板 M6 8.4 英寸 Wi-Fi 版:华为
+VRD-AL09:华为平板 M6 8.4 英寸 全网通版:华为
+VRD-W10:华为平板 M6 高能版 8.4 英寸 Wi-Fi 版:华为
+VRD-AL10:华为平板 M6 高能版 8.4 英寸 全网通版:华为
+DT1901A:坚果 Pro 3:坚果
+DT1902A:坚果 Pro 3:坚果
+DT1902A:坚果 Pro 3 (白色):坚果
+DT1901A:坚果 Pro 3 (黑色/松绿色):坚果
+Lenovo L78121:联想 Z6:联想
+M973Q:魅族 16s Pro 公开版:魅族
+M928Q:魅族 16T 公开版:魅族
+M926H:魅族 16Xs 国际版:魅族
+LRA-AL00:荣耀 20 青春版 全网通版:荣耀
+LRA-TL00:荣耀 20 青春版 移动 4G+ 版:荣耀
+YAL-AL50:荣耀 20S 全网通版:荣耀
+YAL-TL50:荣耀 20S 移动 4G+ 版:荣耀
+HLK-AL10:荣耀 9X PRO 全网通版:荣耀
+HLK-AL00:荣耀 9X 全网通版:荣耀
+HLK-TL00:荣耀 9X 移动 4G+ 版:荣耀
+VLR-W09:荣耀 MagicBook 2019 i3:荣耀
+VLR-W19:荣耀 MagicBook 2019 i5:荣耀
+VLR-W29:荣耀 MagicBook 2019 i7:荣耀
+VLR-W09L:荣耀 MagicBook 2019 科技尝鲜版 i3:荣耀
+VLR-W19L:荣耀 MagicBook 2019 科技尝鲜版 i5:荣耀
+VLR-W19LP:荣耀 MagicBook 2019 科技尝鲜版 i5 (16GB+512GB):荣耀
+VLR-W29L:荣耀 MagicBook 2019 科技尝鲜版 i7:荣耀
+KPRC-W10L:荣耀 MagicBook 2019 科技尝鲜版 R5:荣耀
+KPRC-W20L:荣耀 MagicBook 2019 科技尝鲜版 R7:荣耀
+KPR-W19:荣耀 MagicBook 2019 锐龙版 R5:荣耀
+KPR-W29:荣耀 MagicBook 2019 锐龙版 R7:荣耀
+VLT-W50:荣耀 MagicBook i5:荣耀
+VLT-W60:荣耀 MagicBook i7:荣耀
+HBL-W19:荣耀 MagicBook Pro i5:荣耀
+HBL-W29:荣耀 MagicBook Pro i7:荣耀
+HLY-W19R:荣耀 MagicBook Pro R5:荣耀
+HLY-W19RP:荣耀 MagicBook Pro R5 (16GB+512GB):荣耀
+HLY-W29R:荣耀 MagicBook Pro R7:荣耀
+HBL-W19L:荣耀 MagicBook Pro 科技尝鲜版 i5:荣耀
+HBL-W29L:荣耀 MagicBook Pro 科技尝鲜版 i7:荣耀
+HLY-W19RL:荣耀 MagicBook Pro 科技尝鲜版 R5:荣耀
+HLY-W19RLP:荣耀 MagicBook Pro 科技尝鲜版 R5 (16GB+512GB):荣耀
+HLY-W29RL:荣耀 MagicBook Pro 科技尝鲜版 R7:荣耀
+KPL-W00:荣耀 MagicBook 锐龙版:荣耀
+ASK-AL00x:荣耀 Play 3 全网通版:荣耀
+ASK-TL00x:荣耀 Play 3 移动 4G+ 版:荣耀
+KSA-AL10:荣耀 Play 3e 全网通版:荣耀
+KSA-AL00:荣耀畅玩 8 全网通版:荣耀
+KSA-AL10:荣耀畅玩 8 全网通版:荣耀
+KSA-AL00:荣耀畅玩 8 全网通版:荣耀
+JDN2-W09HN:荣耀平板 5 8 英寸 Wi-Fi 版:荣耀
+JDN2-AL00HN:荣耀平板 5 8 英寸 全网通版:荣耀
+JDN-AL50HN:荣耀平板 5 8 英寸 全网通版:荣耀
+SM-W2020:三星 W20 5G:三星
+SCH-W2013:三星 W2013 :三星
+SM-W2014:三星 W2014:三星
+SM-W2015:三星 W2015:三星
+SM-W2016:三星 W2016:三星
+SM-W2017:三星 W2017:三星
+SM-W2018:三星 W2018:三星
+SM-W2019:三星 W2019:三星
+SCH-W699:三星 W699:三星
+SCH-W799:三星 W799:三星
+SCH-W899:三星 W899:三星
+SCH-W999:三星 W999:三星
+M1904F3BG:小米 9 Lite 国际版:小米
+M1908F1XE:小米 9 Pro 5G 全网通版:小米
+M1903F11G:小米 9T Pro 国际版:小米
+M1903F10G:小米 9T 国际版:小米
+M1906F9SG:小米 A3 国际版:小米
+M1906F9SH:小米 A3 国际版:小米
+M1906F9SH:小米 A3 国际版:小米
+M1906F9SI:小米 A3 印度版:小米
+M1910F4E:小米 CC9 Pro 全网通版:小米
+M1904F3BT:小米 CC9 美图定制版:小米
+M1904F3BC:小米 CC9 全网通版:小米
+M1906F9SC:小米 CC9e 全网通版:小米
+M1810E5GG:小米 MIX 3 5G:小米
+M1910F4S:小米 Note 10 Pro 国际版:小米
+M1910F4G:小米 Note 10 国际版:小米
+L43M5-5A:小米电视 4A 43 英寸 SE:小米
+L43M5-AD:小米电视 4A 43 英寸 SE:小米
+L50M5-5A:小米电视 4A 50 英寸 SE:小米
+L70M5-4A:小米电视 4A 70 英寸:小米
+L40M5-4C:小米电视 4C 40 英寸 SE:小米
+L70M5-4S:小米电视 4S 70 英寸:小米
+L55M6-5:小米电视 5 55 英寸:小米
+L65M6-5:小米电视 5 65 英寸:小米
+L75M6-5:小米电视 5 75 英寸:小米
+L55M6-5P:小米电视 5 Pro 55 英寸:小米
+L65M6-5P:小米电视 5 Pro 65 英寸:小米
+L75M6-5P:小米电视 5 Pro 75 英寸:小米
+L55M5-AB:小米电视 55 英寸 全面屏 PRO:小米
+L65M5-4:小米电视 65 英寸 全面屏 PRO:小米
+L32M5-EC:小米全面屏电视 32 英寸 E32C:小米
+L40M5-FA:小米全面屏电视 40 英寸 E40A:小米
+L43M5-EC:小米全面屏电视 43 英寸 E43C:小米
+L43M5-EX:小米全面屏电视 43 英寸 E43X:小米
+L55M5-EX:小米全面屏电视 55 英寸 E55X:小米
+L65M5-EC:小米全面屏电视 65 英寸 E65C:小米
+L43M5-ES:小米全面屏电视 Pro 43 英寸 E43S:小米
+L55M5-ES:小米全面屏电视 Pro 55 英寸 E55S:小米
+L65M5-ES:小米全面屏电视 Pro 65 英寸 E65S:小米
